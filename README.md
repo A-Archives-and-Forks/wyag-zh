@@ -1,6 +1,6 @@
 ﻿# 自己动手写 Git
 
-本文翻译自 [https://wyag.thb.lt/](https://wyag.thb.lt/)，原文 Github 仓库为 [https://github.com/thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git)，翻译版本托管于本仓库，中文文档网址为 [http://wyag-zh.hanyujie.xyz/](http://wyag-zh.hanyujie.xyz/)。
+本文翻译自 [https://wyag.thb.lt/](https://wyag.thb.lt/)，原文 Github 仓库为 [https://github.com/thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git)，翻译版本托管于本仓库，中文文档网址为 [https://wyag-zh.vercel.app](https://wyag-zh.vercel.app)。
 
 ## 介绍
 
